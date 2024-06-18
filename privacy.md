@@ -80,7 +80,7 @@
 - インターネット プロトコル アドレス、電子メール メッセージの送受信日、件名情報などのメタデータ
 - 受信者と送信者のメールアドレス、名前、役職
 
-当社サービスによる Google API から取得した情報の使用は、限定使用要件を含む Google API サービスのユーザーデータに関するポリシー(https://developers.google.com/terms/api-services-user-data-policy?hl=ja)に準拠します。
+当社サービスによる Google API から取得した情報の使用は、限定使用要件を含む Google API サービスのユーザーデータに関するポリシー([https://developers.google.com/terms/api-services-user-data-policy?hl=ja](https://developers.google.com/terms/api-services-user-data-policy?hl=ja))に準拠します。
 
 また、当社は、提供された目的以外で取得した情報を第三者に譲渡または開示することはありません。
 
